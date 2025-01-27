@@ -1,0 +1,1 @@
+Version control is important because it helps manage files and their history over time. It allows you to view all changes made to files and keeps the documents and their previous statesb organized. 
